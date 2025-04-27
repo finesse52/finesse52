@@ -13,8 +13,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 I am a Java Backend Developer 🚀 from Russia, currently seeking an internship.  
-<img src="![image](https://github.com/user-attachments/assets/2b5e986b-5f21-4eab-b54d-a15c40981e18)
-" width="120" alt="ITMO Logo">  
+![itmo](https://github.com/user-attachments/assets/a19a5621-370c-4902-b337-696c42033937)
+
 
 I am a Java Backend Developer...
 🏛️ Studying Computer Technologies at **ITMO University**.  
