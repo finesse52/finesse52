@@ -12,9 +12,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-### About Me  
+### :man_technologist: About Me :
 
-<img src="https://itmo.ru/file/pages/213/logo_itmo.png" width="120" alt="ITMO" align="left" style="margin-right: 10px;">  
+<img src="[https://itmo.ru/file/pages/213/logo_itmo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwowprofi.ru%2Finstitutions%2Ffgaou-vo-natsionalnyi-issledovatelskii-universitet-itmo&psig=AOvVaw34iaTZxNt_gntqmlYRi40j&ust=1745870565998000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiUw-mA-YwDFQAAAAAdAAAAABAE)" width="120" alt="ITMO" align="left" style="margin-right: 10px;">  
 
 I am a **Java Backend Developer** from Russia, currently seeking an internship.  
 
