@@ -12,13 +12,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-:man_technologist: About Me :
+I am a Java Backend Developer 🚀 from Russia, currently seeking an internship.  
+🏛️ Studying Computer Technologies at **ITMO University**.  
 
-<img src="https://itmo.ru/file/pages/213/logo_itmo.png" width="120" alt="ITMO"> 
-
-I am a **Java Backend Developer** from Russia, currently seeking an internship.  
-
-- 🎓 3rd year student at ITMO University (Computer Technologies)  
-- 🔧 Tech stack: Java 17, Spring Boot, PostgreSQL  
-- ⚡ Passionate about clean architecture  
-- 🏀 Love basketball and hackathons  
+- 🖥️ Deepening my knowledge in Java, Spring, and backend development.  
+- ⚡ Passionate about algorithms and distributed systems.  
+- 🏀 In my free time, I play basketball.  
