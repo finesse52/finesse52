@@ -10,7 +10,8 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwowprofi.ru%2Finstitutions%2Ffgaou-vo-natsionalnyi-issledovatelskii-universitet-itmo&psig=AOvVaw34iaTZxNt_gntqmlYRi40j&ust=1745870565998000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiUw-mA-YwDFQAAAAAdAAAAABAE)![image](https://github.com/user-attachments/assets/e0b04524-81a1-4a9f-8c7c-bbbd3f8ce003)
+" width="600" height="300"/>
 </div>
 I am a Java Backend Developer 🚀 from Russia, currently seeking an internship.  
 🏛️ Studying Computer Technologies at **ITMO University**.  
