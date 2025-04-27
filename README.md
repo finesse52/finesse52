@@ -12,4 +12,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
+I am a Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, currently seeking an internship.  
+<img src="https://raw.githubusercontent.com/itmo-org/itmo/main/logo.png" width="20"> Studying Computer Technologies at ITMO University.  
+
+- :computer: Deepening my knowledge in Java, Spring, and backend development.  
+- :rocket: Passionate about algorithms, distributed systems, and clean code.  
+- :basketball: In my free time, I play basketball and enjoy team sports.  
