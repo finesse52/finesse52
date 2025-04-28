@@ -16,7 +16,7 @@
 
 I am a Java Backend Developer 🚀 from Russia, currently seeking an internship.
 
-- 🏛️ Software Engineering Technologies at ITMO
+- 🏛️ Software Engineering at ITMO
 - 🖥️ Deepening my knowledge in Java, Spring, and backend development.  
 - ⚡ Passionate about algorithms and distributed systems.  
 - 🏀 In my free time, I play basketball.
