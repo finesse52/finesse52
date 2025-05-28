@@ -39,5 +39,9 @@ I am a Java Backend Developer 🚀 from Russia, currently seeking an internship.
 <div>
 
 ---
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=finesse52&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=finesse52&theme=dark" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=finesse52&theme=dark" width="400"/>
+</div>
